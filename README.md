@@ -23,5 +23,5 @@
 
     
 ## Datasheets & Additional Info
-    ✦ [The excel file](nixie-tube-watch/nixie list.xlsx) contains the list of all the components I used for the watch, including links for vendors that you can buy them from.
-    ✦ Link for IN-16 Nixie Tube Datasheet: [https://www.tube-tester.com/sites/nixie/dat_arch/IN-16_02.pdf](url)
+    ✦ [The excel file](nixie list.xlsx) contains the list of all the components I used for the watch, including links for vendors that you can buy them from.
+    ✦  [IN-16 Nixie Tube Datasheet](https://www.tube-tester.com/sites/nixie/dat_arch/IN-16_02.pdf)
