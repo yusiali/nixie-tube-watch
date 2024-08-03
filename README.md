@@ -1,4 +1,6 @@
 # Nixie Tube Watch
+![nixieWatch](https://github.com/user-attachments/assets/fd05f7c0-7c1e-4064-a6ba-4a5cfec3e1ec)
+
 ## Objective: Build an analog watch from scratch using cathode ray Nixie tubes from the 1950s.
 
     ✦ Designed printed circuit boards to keep the form factor of the watch as compact as possible.
