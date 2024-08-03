@@ -25,5 +25,7 @@
 
     
 ## Datasheets & Additional Info
+- [YT video explaining my build process and the science behind Nixie tubes](https://www.youtube.com/watch?v=iHFu8EpVipM&t=4s)
+- [Project page on my website](https://yusiali.com/projects/1_project/)
 - [The excel file](/nixie-list.xlsx) contains the list of all the components I used for the watch, including links for vendors that you can buy them from.
 - [IN-16 Nixie Tube Datasheet](https://www.tube-tester.com/sites/nixie/dat_arch/IN-16_02.pdf).
