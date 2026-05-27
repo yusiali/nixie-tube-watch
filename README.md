@@ -3,15 +3,14 @@
 
 ## Objective: Build an analog watch from scratch using cathode ray Nixie tubes from the 1950s.
 
-- Sourced compact custom PCBs designed by [@valendorn](https://github.com/valendorn) to keep the form factor of the watch as small as possible.
-- Created a Qi standard charging module for the watch to charge wirelessly.
-- Built the watch case using resin and CNC-cut glass.
+- Sourced compact custom PCBs designed by [@valendorn](https://www.youtube.com/@valendorn) to keep the form factor of the watch as small as possible.
+- Assembled the watch case using resin and CNC-cut glass.
 - Flashed the time-keeping firmware (written in C) onto the watch's PIC-16 MCU.
 
-## Design Process
-- It took me around half a year to source the PCBs from [@valendorn](https://github.com/valendorn), gather all the components, and assemble the watch.
+## Build Process
+- It took me around half a year to source the PCBs, gather all the components, and assemble the watch.
     - All the parts I used are in the 'nixie-list.xlsx' file for reference.
-    - 'watch-PCB.png' contains a diagram of the PCB I worked from (designed by [@valendorn](https://github.com/valendorn)).
+    - 'watch-PCB.png' contains a diagram of the PCB I worked from.
 - Initially, my watch display consisted of a small OLED screen, but I quickly scrapped that idea once I found out about Nixie tubes.
 - I had minimal soldering and electronics-assembly experience before making my Nixie tube watch, so I learned most of these skills on the go lol.
 
@@ -24,11 +23,10 @@
     - I worked with a PICkit 3 to transfer the hex file from my computer to the MCU.
 
 ## Credits
-- **PCB design:** [@valendorn](https://github.com/valendorn) — the entire PCB layout and schematic for this watch is his work. This build wouldn't have been possible without it.
+- **PCB design:** [@valendorn](https://www.youtube.com/@valendorn) — the entire PCB layout and schematic for this watch is his work. This build wouldn't have been possible without it.
 - **Firmware:** PIC-16 time-keeping firmware in this repo was not written by me; I used it as-is to drive the watch.
 
 ## Datasheets & Additional Info
 - [YT video explaining my build process and the science behind Nixie tubes](https://www.youtube.com/watch?v=iHFu8EpVipM&t=4s)
-- [Project page on my website](https://yusiali.com/projects/1_project/)
 - [The excel file](/nixie-list.xlsx) contains the list of all the components I used for the watch, including links for vendors that you can buy them from.
 - [IN-16 Nixie Tube Datasheet](https://www.tube-tester.com/sites/nixie/dat_arch/IN-16_02.pdf).
